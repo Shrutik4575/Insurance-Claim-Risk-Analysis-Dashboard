@@ -1,19 +1,20 @@
 # Insurance-Claim-Risk-Analysis-Dashboard
 
   1. Project Title / Heading
- 🛡️ ClaimGuard Analytics: Insurance Claim & Risk Analysis Dashboard
+     
+     🛡️ ClaimGuard Analytics: Insurance Claim & Risk Analysis Dashboard
  
-     A dynamic, interactive data visualization tool designed to analyze insurance claims data, detect fraud patterns, assess customer risk profiles, and provide
-     insights for effective decision-making.
+      A dynamic, interactive data visualization tool designed to analyze insurance claims data, detect fraud patterns, assess customer risk profiles, and provide
+      insights for effective decision-making.
 
-  2. Short Description 
+  3. Short Description 
 
        The Insurance Claim & Risk Analysis Dashboard is a visually engaging and analytical Power BI report that enables insurance companies to explore,monitor and 
        assess claim trends, fraud risks and policyholders behaviour.The dashboard focuses on highlighting major claim features like Total Policy holders,Total claim 
        amount and average claim amount . This tool is intended for use by Risk Analysts , Risk management enthusiasts,Insurance companies and data - driven strategists
        who seek to understand trends & characteristics of Insurance Claims.
 
-  3. Tech Stack
+  4. Tech Stack
 
      The dashboard was built using the following tools and technologies:
    
@@ -27,14 +28,14 @@
      
      📂 File Format – .pbix (Power BI file for development) and .png (snapshot for dashboard preview).
 
-  4. Data Sourcs
+  5. Data Sourcs
 
        Source : www.kaggle.com
      
        Data on ~37000 car insurance policy holders , their vehicles & claim history.Each record represents individual customer with demograpgic details.
        It also includes claim amount,claim frequency and captures rich details about insured vehicles.
 
-  5. Features / Highlights
+  6. Features / Highlights
 
      . Business Problem
      

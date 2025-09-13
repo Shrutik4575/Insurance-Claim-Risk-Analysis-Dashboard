@@ -14,12 +14,13 @@
 
   3. Tech Stack
 
-   The dashboard was built using the following tools and technologies:
-   📊 Power BI Desktop – Main data visualization and reporting platform.
-   🔄 Power Query – For cleaning, transforming, and reshaping insurance and claim datasets.
-   🧮 DAX (Data Analysis Expressions) – For KPIs such as total claims, average claim frequency, settlement ratios, and risk segmentation.
-   🔗 Data Modeling – Relationships across policyholders, claims, demographics, education, car use, and risk categories.
-   📂 File Format – .pbix (Power BI file for development) and .png (snapshot for dashboard preview).
+     The dashboard was built using the following tools and technologies:
+   
+     📊 Power BI Desktop – Main data visualization and reporting platform.
+     🔄 Power Query – For cleaning, transforming, and reshaping insurance and claim datasets.
+     🧮 DAX (Data Analysis Expressions) – For KPIs such as total claims, average claim frequency, settlement ratios, and risk segmentation.
+     🔗 Data Modeling – Relationships across policyholders, claims, demographics, education, car use, and risk categories.
+     📂 File Format – .pbix (Power BI file for development) and .png (snapshot for dashboard preview).
 
   4. Data Sourcs
 

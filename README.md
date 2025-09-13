@@ -7,10 +7,10 @@
 
   2. Short Description 
 
-  The Insurance Claim & Risk Analysis Dashboard is a visually engaging and analytical Power BI report that enables insurance companies to explore,monitor and 
-  assess claim trends, fraud risks and policyholders behaviour.The dashboard focuses on highlighting major claim features like Total Policy holders,Total claim 
-  amount and average claim amount . This tool is intended for use by Risk Analysts , Risk management enthusiasts,Insurance companies and data - driven strategists
-  who seek to understand trends & characteristics of Insurance Claims.
+   The Insurance Claim & Risk Analysis Dashboard is a visually engaging and analytical Power BI report that enables insurance companies to explore,monitor and 
+   assess claim trends, fraud risks and policyholders behaviour.The dashboard focuses on highlighting major claim features like Total Policy holders,Total claim 
+   amount and average claim amount . This tool is intended for use by Risk Analysts , Risk management enthusiasts,Insurance companies and data - driven strategists
+   who seek to understand trends & characteristics of Insurance Claims.
 
   3. Tech Stack
 

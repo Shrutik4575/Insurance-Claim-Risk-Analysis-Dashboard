@@ -64,6 +64,8 @@
 
   6. Screenshot
 
+     show the dashboard looks like - ![Alt_text](https://github.com/Shrutik4575/Insurance-Claim-Risk-Analysis-Dashboard/blob/main/Insurance%20risk.png)
+
      Dashboard Preview: (https://github.com/Shrutik4575/Insurance-Claim-Risk-Analysis-Dashboard/blob/main/Insurance%20risk.png)
 
    

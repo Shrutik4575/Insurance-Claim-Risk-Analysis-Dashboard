@@ -54,13 +54,11 @@
      3. On the right at top , the Donut shows the Total policy claims by coverage area - with highly urban & suburban being lowest.
         
      4. On the right at bottom , the Pie chart shows the total policy claims by Education & The Matrix shows claim amount by Education & Marital status with High
-        
-       School having highest claims and PhD having lowest claims.
+         School having highest claims and PhD having lowest claims.
 
      . Business Impact & Insights
      
        The Risk management team gets a centralized view about policies and claims & customer segmentation across demographics.These insights help detect high-risk
-     
        areas,optimize policy offerings and strengthen financial planning.
 
   6. Screenshot

@@ -1,4 +1,5 @@
 # Insurance-Claim-Risk-Analysis-Dashboard
+
   1. Project Title / Heading
  🛡️ ClaimGuard Analytics: Insurance Claim & Risk Analysis Dashboard
  
@@ -26,35 +27,45 @@
      
      📂 File Format – .pbix (Power BI file for development) and .png (snapshot for dashboard preview).
 
-  5. Data Sourcs
+  4. Data Sourcs
 
        Source : www.kaggle.com
+     
        Data on ~37000 car insurance policy holders , their vehicles & claim history.Each record represents individual customer with demograpgic details.
        It also includes claim amount,claim frequency and captures rich details about insured vehicles.
 
-  6. Features / Highlights
+  5. Features / Highlights
 
      . Business Problem
+     
        The insurance company faces challenges in gaining a unified view of its policyholders base and claim patterns.
    
      . Goal of Dashboard
+     
        The goal of this Dashboard was to provide an interactive platform that consolidates insurance policy & claim data,by offering insights into customer
        segmentation,risk factors and claim distribution.
 
      . Key Visuals
+     
      1. On the left at top , the Donut shows the Total Policy claims by car use - with around 7k claims for commercial & 30k claims for private.
+        
      2. On the left at bottom , the Histogram shows the Total policy cllaims by Age Group - with '15-25' & '66-75' being lowest.
+        
      3. On the right at top , the Donut shows the Total policy claims by coverage area - with highly urban & suburban being lowest.
+        
      4. On the right at bottom , the Pie chart shows the total policy claims by Education & The Matrix shows claim amount by Education & Marital status with High
+        
        School having highest claims and PhD having lowest claims.
 
      . Business Impact & Insights
+     
        The Risk management team gets a centralized view about policies and claims & customer segmentation across demographics.These insights help detect high-risk
+     
        areas,optimize policy offerings and strengthen financial planning.
 
-  7. Screenshot
+  6. Screenshot
 
-   Dashboard Preview: (https://github.com/Shrutik4575/Insurance-Claim-Risk-Analysis-Dashboard/blob/main/Insurance%20risk.png)
+     Dashboard Preview: (https://github.com/Shrutik4575/Insurance-Claim-Risk-Analysis-Dashboard/blob/main/Insurance%20risk.png)
 
    
 

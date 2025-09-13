@@ -17,18 +17,22 @@
      The dashboard was built using the following tools and technologies:
    
      📊 Power BI Desktop – Main data visualization and reporting platform.
+     
      🔄 Power Query – For cleaning, transforming, and reshaping insurance and claim datasets.
+     
      🧮 DAX (Data Analysis Expressions) – For KPIs such as total claims, average claim frequency, settlement ratios, and risk segmentation.
+     
      🔗 Data Modeling – Relationships across policyholders, claims, demographics, education, car use, and risk categories.
+     
      📂 File Format – .pbix (Power BI file for development) and .png (snapshot for dashboard preview).
 
-  4. Data Sourcs
+  5. Data Sourcs
 
-     Source : www.kaggle.com
-     Data on ~37000 car insurance policy holders , their vehicles & claim history.Each record represents individual customer with demograpgic details.
-     It also   includes claim amount,claim frequency and captures rich details about insured vehicles.
+       Source : www.kaggle.com
+       Data on ~37000 car insurance policy holders , their vehicles & claim history.Each record represents individual customer with demograpgic details.
+       It also includes claim amount,claim frequency and captures rich details about insured vehicles.
 
-  5. Features / Highlights
+  6. Features / Highlights
 
      . Business Problem
        The insurance company faces challenges in gaining a unified view of its policyholders base and claim patterns.
@@ -48,7 +52,7 @@
        The Risk management team gets a centralized view about policies and claims & customer segmentation across demographics.These insights help detect high-risk
        areas,optimize policy offerings and strengthen financial planning.
 
-  6. Screenshot
+  7. Screenshot
 
    Dashboard Preview: (https://github.com/Shrutik4575/Insurance-Claim-Risk-Analysis-Dashboard/blob/main/Insurance%20risk.png)
 
